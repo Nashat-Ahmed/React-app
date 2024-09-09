@@ -1,0 +1,37 @@
+---
+- name: "Auto Docker build using  Ansible"
+  hosts: localhost
+  vars_files:
+    - vars.yml
+  tasks: 
+  - name: stop running containers
+    command: docker stop  heuristic_neumann
+    ignore_errors: yes
+
+  - name: remove stopped container
+    command: docker rm   heuristic_neumann
+    ignore_errors: yes
+
+  - name: removed used images
+    command: docker rmi nashaat111/frontend-app
+    ignore_errors: yes
+
+  - name: build new image 
+    command: docker build -t nashaat111/frontend-app .
+    ignore_errors: yes
+
+  - name: run the container
+    command: docker run -d -p 3000:3000  nashaat111/frontend-app
+    ignore_errors: yes
+  
+  - name: login to DockerHub 
+    docker_login:
+      username: "{{dockerhub_username}}"
+      password: "{{dockerhub_password}}"
+      registry: https://index.docker.io/v1/
+      reauthorize: yes
+
+  - name: pushing the image to DockerHub
+    command: docker push  nashaat111/frontend-app
+    ignore_errors: yes
+

@@ -1,0 +1,169 @@
+{
+    "estate": [
+        {
+            "type": "Villa",
+            "address": {
+                "city": "Appur",
+                "state": "Kancheepuram",
+                "postalnumber": 603204
+            },
+            "Image": "https://tse4.mm.bing.net/th?id=OIP.v8fDkJMK42AiLo3FKj2ghQHaEK&pid=Api&P=0&h=180",
+            "contact": "fopeprouhazau-8188@yopmail.com",
+            "id": 1
+        },
+        {
+            "type": "Apartment",
+            "address": {
+                "city": "Thingalur",
+                "state": "Thanjavur",
+                "postalnumber": 638055
+            },
+            "Image": "https://tse3.mm.bing.net/th?id=OIP.SeV2cgoHDZrR5TuXT_Bd1AHaE6&pid=Api&P=0&h=180",
+            "contact": "kuliddemmeuri-6812@yopmail.com",
+            "id": 2
+        },
+        {
+            "type": "Villa",
+            "address": {
+                "city": "manapparai",
+                "state": "Tiruchirappalli",
+                "postalnumber": 621306
+            },
+            "Image": "https://tse1.mm.bing.net/th?id=OIP.j77xezKOaBFOsmqkUnUB7gHaFF&pid=Api&P=0&h=180",
+            "contact": "neivoimigahu-6280@yopmail.com",
+            "id": 3
+        },
+        {
+            "type": "Independent-House",
+            "address": {
+                "city": "Anaicut",
+                "state": "Vellore",
+                "postalnumber": 632101
+            },
+            "Image": "https://tse1.mm.bing.net/th?id=OIP.a0_e8s9MHPtvir3oQW8vcQHaFj&pid=Api&P=0&h=180",
+            "contact": "cicubafripru-3780@yopmail.com",
+            "id": 4
+        },
+        {
+            "type": "Apartment",
+            "address": {
+                "city": "Melapadi",
+                "state": "Vellore",
+                "postalnumber": 632520
+            },
+            "Image": "https://tse1.mm.bing.net/th?id=OIP.VJ5h1tKOACkxhdmomX9M0wHaFN&pid=Api&P=0&h=180",
+            "contact": "fujubrippeiprou-7704@yopmail.com",
+            "id": 5
+        },
+        {
+            "type": "Villa",
+            "address": {
+                "city": "Irugar",
+                "state": "Coimbatore",
+                "postalnumber": 641103
+            },
+            "Image": "https://tse3.mm.bing.net/th?id=OIP.HdDULx4vU0N7OzuOaEAgQgHaEH&pid=Api&P=0&h=180",
+            "contact": "cemmopaukauru-9502@yopmail.com",
+            "id": 6
+        },
+        {
+            "type": "Independent-House",
+            "address": {
+                "city": "Melamaiyur",
+                "state": "Kancheepuram",
+                "postalnumber": 603001
+            },
+            "Image": "https://tse2.mm.bing.net/th?id=OIP.EWvTC_ZG69mbIqSK9h2DNgHaEp&pid=Api&P=0&h=180",
+            "contact": "lasalleffacro-9599@yopmail.com",
+            "id": 7
+        },
+        {
+            "type": "Apartment",
+            "address": {
+                "city": "Anna-nagar",
+                "state": "Chennai",
+                "postalnumber": 600040
+            },
+            "Image": "https://tse3.mm.bing.net/th?id=OIP.o4L8rn-nANjwzGhKJr_oMgHaE8&pid=Api&P=0&h=180",
+            "contact": "ruqueijussummeu-1501@yopmail.com",
+            "id": 8
+        },
+        {
+            "type": "Villa",
+            "address": {
+                "city": "Attur",
+                "state": "Salem",
+                "postalnumber": 636102
+            },
+            "Image": "https://tse1.mm.bing.net/th?id=OIP.eA6Jxj-ytOsC0vXenoeCGwHaEU&pid=Api&P=0&h=180",
+            "contact": "tessapporepeu-7028@yopmail.com",
+            "id": 9
+        },
+        {
+            "type": "Independent-House",
+            "address": {
+                "city": "T-nagar",
+                "state": "Chennai",
+                "postalnumber": 600006
+            },
+            "Image": "https://tse3.mm.bing.net/th?id=OIP.ZvExhSOjwb6NlbHueD6yUwHaFj&pid=Api&P=0&h=180",
+            "contact": "noifulatrepu-5951@yopmail.com",
+            "id": 10
+        },
+        {
+            "type": "Apartment",
+            "address": {
+                "city": "Thuraiyur",
+                "state": "Tiruchirappalli",
+                "postalnumber": 621001
+            },
+            "Image": "https://tse1.mm.bing.net/th?id=OIP.Oi3w4LfSe0VQ0icBHTUHAQHaF7&pid=Api&P=0&h=180",
+            "contact": "teiddeigrocroisse-4726@yopmail.com",
+            "id": 11
+        },
+        {
+            "type": "Independent-House",
+            "address": {
+                "city": "Oragadam",
+                "state": "Kancheepuram",
+                "postalnumber": 603109
+            },
+            "Image": "https://tse4.mm.bing.net/th?id=OIP.K0YA62YC0M2zvOeW0I--CAHaFj&pid=Api&P=0&h=180",
+            "contact": "gousedaddeppe-2135@yopmail.com",
+            "id": 12
+        },
+        {
+            "type": "Independent-House",
+            "address": {
+                "city": "Lalgudi",
+                "state": "Tiruchirappalli",
+                "postalnumber": 621601
+            },
+            "Image": "https://tse2.mm.bing.net/th?id=OIP.JQuvVkz12zKF3QBrrqD3jwHaFh&pid=Api&P=0&h=180",
+            "contact": "deneiffeujota-2819@yopmail.com",
+            "id": 13
+        },
+        {
+            "type": "Villa",
+            "address": {
+                "city": "Jambai",
+                "state": "Erode",
+                "postalnumber": 638312
+            },
+            "Image": "https://tse2.mm.bing.net/th?id=OIP.SQBYmy_hZew7AFHVDHr3BgHaE7&pid=Api&P=0&h=180",
+            "contact": "loikoiseimmaku-3698@yopmail.com",
+            "id": 14
+        },
+        {
+            "type": "Apartment",
+            "address": {
+                "city": "Pokkollai",
+                "state": "Thanjavur",
+                "postalnumber": 614001
+            },
+            "Image": "https://tse3.mm.bing.net/th?id=OIP.tQf80PbXUH-ZNxmHNrhWiwHaEm&pid=Api&P=0&h=180",
+            "contact": "souriqueuddammei-9903@yopmail.com",
+            "id": 15
+        }
+    ]
+}
